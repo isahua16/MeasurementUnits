@@ -1,0 +1,30 @@
+#block_1 {
+  background-color: green;
+  width: 10cm;
+  height: 3cm;
+}
+#block_2 {
+  background-color: blue;
+  width: 200mm;
+  height: 40mm;
+}
+#block_3 {
+  background-color: red;
+  width: 3in;
+  height: 1in;
+}
+#block_4 {
+  background-color: yellow;
+  width: 200px;
+  height: 40px;
+}
+#block_5 {
+  background-color: purple;
+  width: 200pt;
+  height: 40pt;
+}
+#block_6 {
+  background-color: orange;
+  width: 40pc;
+  height: 4pc;
+}
