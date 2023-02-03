@@ -28,3 +28,21 @@
   width: 40pc;
   height: 4pc;
 }
+
+#block_7 {
+  background-color: darkcyan;
+  width: 100vw;
+  height: 3vh;
+}
+
+#block_wrapper {
+  background-color: black;
+  width: 25vw;
+  height: 10vh;
+}
+
+#block_8 {
+  background-color: darkred;
+  width: 100%;
+  height: 30%;
+}
